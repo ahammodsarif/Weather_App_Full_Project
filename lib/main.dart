@@ -3,6 +3,11 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
   print('hello world');
+  print('hello world');
+  print('hello world');
+  print('hello world');
+  print('hello world');
+  print('hello world');
 }
 
 class MyApp extends StatelessWidget {
